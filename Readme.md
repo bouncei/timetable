@@ -72,4 +72,3 @@ ready to be deployed!
 ## Licence
 
 [MIT Licence](https://github.com/vigzmv/what_the_thing/blob/master/LICENSE) ©
-[Vignesh M](https://vigneshm.com)

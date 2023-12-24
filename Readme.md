@@ -18,8 +18,6 @@ Built Using:
 
 ## Live Demo
 
-Check out the live demo
-[Here: timetable-sandy.vercel.app](timetable-sandy.vercel.app)
 
 <hr>
 
